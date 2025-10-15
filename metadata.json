@@ -1,0 +1,8 @@
+{
+  "name": "Klug AI",
+  "description": "An AI-powered study buddy that answers your questions from text, images, or voice. Get instant help with your homework and assignments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
